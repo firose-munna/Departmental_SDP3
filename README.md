@@ -14,6 +14,9 @@
 13. Type into cmd "php artisan migrate"
 14. Then run the project, type "php artisan serve"
 
+## Project Report
+https://docs.google.com/document/d/1_S3bu-ykRqMV-SoY7qFacIvVnYpRBo6a/edit?usp=sharing&ouid=107857556418046268383&rtpof=true&sd=true
+
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
