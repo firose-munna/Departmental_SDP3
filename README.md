@@ -1,3 +1,21 @@
+## Installation Process
+1. At first Download the Zip of the project.
+2. Install Xampp with PHP 8.1.+. Then run and Create a database name of "joruri_osudh".
+3. Install Composer.
+4. Check composer and php version with cmd. Open cmd and type composer, after checking composer then type php -v into cmd.
+5. Then open the folder htdocs which is into the xampp folder.
+6. Then click the path and type cmd.
+7. Here type "composer create-project laravel/laravel joruri_osudh" then hit enter.
+8. Project create successfuly.
+9. Again type "composer global require laravel/installer".
+10. Now extract the downloaded project and copy the all files and folder of joruri_osudh then paste into xampp/htdocs/joruri_osudh/.
+11. Type into cmd "composer require "darryldecode/cart""
+12. Type into cmd "php artisan storage:link"
+13. Type into cmd "php artisan migrate"
+14. Then run the project, type "php artisan serve"
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
