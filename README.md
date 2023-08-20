@@ -28,6 +28,33 @@ https://docs.google.com/document/d/1_S3bu-ykRqMV-SoY7qFacIvVnYpRBo6a/edit?usp=sh
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Output
+<img src="https://github.com/firose-munna/Departmental_SDP3/assets/105736440/cd08d1de-98c4-407d-8669-8b4ba05bc221" alt="" height="200" width="500">
+<img src="https://github.com/firose-munna/Departmental_SDP3/assets/105736440/11cdf28a-5692-4148-97be-45bccf2bc748" alt="" height="700" width="600">
+<img src="https://github.com/firose-munna/Departmental_SDP3/assets/105736440/091e5c2a-500d-49b8-b59c-dc3b9ba01ada" alt="" height="800" width="600">
+<img src="https://github.com/firose-munna/Departmental_SDP3/assets/105736440/68d0048b-84dd-4210-996c-0f59937aeafa" alt="" height="200" width="400">
+<img src="https://github.com/firose-munna/Departmental_SDP3/assets/105736440/da765a57-263c-4525-befc-247215296df8" alt="" height="700" width="600">
+<img src="https://github.com/firose-munna/Departmental_SDP3/assets/105736440/de2a61e7-2d8c-4f8f-a356-233eb849b391" alt="" height="700" width="600">
+<img src="https://github.com/firose-munna/Departmental_SDP3/assets/105736440/7349c0d9-5e04-4e95-9ce9-5f7414db2f48" alt="" height="700" width="600">
+<img src="https://github.com/firose-munna/Departmental_SDP3/assets/105736440/ca7112a4-8b4a-4ce6-b699-d846fd09d29c" alt="" height="700" width="600">
+<img src="https://github.com/firose-munna/Departmental_SDP3/assets/105736440/9c4adf5a-b230-4da0-8cd3-713ce2b46994" alt="" height="700" width="600">
+<img src="https://github.com/firose-munna/Departmental_SDP3/assets/105736440/d077e31a-77bd-4e14-a6d4-e3d6478ce7dc" alt="" height="700" width="600">
+<img src="https://github.com/firose-munna/Departmental_SDP3/assets/105736440/a43d9426-92e2-4a79-9122-aae40becd3b5" alt="" height="200" width="400">
+<img src="https://github.com/firose-munna/Departmental_SDP3/assets/105736440/7831f1e7-0375-472e-a8f4-937c6e38b0b7" alt="" height="200" width="400">
+<img src="https://github.com/firose-munna/Departmental_SDP3/assets/105736440/4e429b06-d444-4c3f-9014-4c10bf5f915c" alt="" height="200" width="400">
+<img src="https://github.com/firose-munna/Departmental_SDP3/assets/105736440/8e83f8e6-9f55-4b51-9027-820585a0bf96" alt="" height="200" width="400">
+<img src="https://github.com/firose-munna/Departmental_SDP3/assets/105736440/75c3dac3-f83b-4429-947a-99d2e1d4d058" alt="" height="200" width="400">
+<img src="https://github.com/firose-munna/Departmental_SDP3/assets/105736440/b0e05b46-08ca-4518-bec5-4f894d107c5c" alt="" height="200" width="400">
+<img src="https://github.com/firose-munna/Departmental_SDP3/assets/105736440/f2eb9589-3b46-4755-a279-2a2b448cec34" alt="" height="200" width="400">
+<img src="https://github.com/firose-munna/Departmental_SDP3/assets/105736440/e7709c62-341a-4870-b053-befdca5de971" alt="" height="200" width="400">
+<img src="https://github.com/firose-munna/Departmental_SDP3/assets/105736440/fb51deb4-13b6-4e0c-af9e-a79602b64763" alt="" height="200" width="400">
+<img src="https://github.com/firose-munna/Departmental_SDP3/assets/105736440/ef2125b4-d90f-4544-91df-e69721ccd8ee" alt="" height="200" width="400">
+<img src="https://github.com/firose-munna/Departmental_SDP3/assets/105736440/dba8f8e0-e252-4c74-9795-578a03a33f20" alt="" height="200" width="400">
+<img src="https://github.com/firose-munna/Departmental_SDP3/assets/105736440/1cef60cf-519a-43a5-b776-7b6213c9250f" alt="" height="200" width="400">
+
+
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
